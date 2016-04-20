@@ -2,7 +2,13 @@
     "HELLO": "Hey, I'm so glad you set me up..it's lonely around here",
     "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HOW OLD ARE YOU?": "10",
+    "WHAT": "What what?",
+    "WHATS YOUR NAME?": "idbot",
+    "WHATS YOUR NAME": "idbot",
     "WHAT'S YOUR NAME?": "You can call me id",
+    "ARE YOU HUMAN?":  "As much as anyone is",
+    "ARE YOU HUMAN":  "As much as anyone is",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
